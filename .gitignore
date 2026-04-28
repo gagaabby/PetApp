@@ -1,0 +1,19 @@
+# macOS / Windows clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor temp files
+*.tmp
+*.swp
+*~
+
+# IDE configs
+.vscode/
+.idea/
+
+# Source / intermediate files (should not be in deploy folder)
+pet_app_intro_v4.html
+pet_app_intro_v4_client.html
+_make_client.js
+*.log
